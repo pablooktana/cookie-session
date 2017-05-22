@@ -1,7 +1,7 @@
 {
   "name": "cookie-session",
   "description": "cookie session middleware",
-  "version": "2.0.0-beta.1",
+  "version": "2.0.0-beta.2",
   "contributors": [
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
     "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
@@ -15,7 +15,7 @@
   ],
   "repository": "expressjs/cookie-session",
   "dependencies": {
-    "cookies": "0.7.0",
+    "cookies": "https://github.com/pablooktana/cookies",
     "debug": "2.6.3",
     "on-headers": "~1.0.1"
   },
